@@ -7,6 +7,7 @@
 | Argument | Example | Required | Description |
 | :--- | :--- | :--- | :--- |
 | `avatarUrl` | `http://domain.tld/to/my/own/avatar.jpg` | Required (if no a file) | Url of the avatar for the user. |
+| `userId` | `BsNr28znDkG8aeo7W` | Optional | If set, id of the user. Otherwise defaults to authed userId |
 
 ## Upload a file
 
